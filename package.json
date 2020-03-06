@@ -21,7 +21,12 @@
     "url": "https://github.com/JIANSO/HelloClass/issues"
   },
   "homepage": "https://github.com/JIANSO/HelloClass#readme",
-  "dependencies": {
-    "gulp": "^4.0.2"
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
   }
 }
